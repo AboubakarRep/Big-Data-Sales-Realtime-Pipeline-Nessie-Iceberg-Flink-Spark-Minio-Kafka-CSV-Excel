@@ -1,0 +1,3 @@
+object MinioTokafka2Ventes {
+
+}
