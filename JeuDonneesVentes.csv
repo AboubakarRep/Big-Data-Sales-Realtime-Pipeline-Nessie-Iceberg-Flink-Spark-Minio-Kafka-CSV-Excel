@@ -1,0 +1,102 @@
+IDVente,DateVente,Produit,Categorie,Quantité,PrixUnitaire,Client,Ville,Pays,Remise,MoyenPaiement,Total
+1,2024-12-25,Bibliothèque,Décoration,4,252,Tammy Patel,Port Darren,Cape Verde,0.1,Espèces,907.2
+2,2024-06-17,Canapé,Éclairage,7,118,Mary Dean,New Glennborough,China,0.15,Virement,702.1
+3,2024-10-27,Lampe,Rangement,3,166,Nathan Cannon,Lake Susan,Slovenia,0,CB,498
+4,2024-03-31,Bibliothèque,Décoration,6,323,Jill Williams,Lake Miguelville,Papua New Guinea,0.15,Chèque,1647.3
+5,2024-12-25,Armoire,Mobilier,2,227,Caitlin Lambert,New Michelle,Honduras,0.2,CB,363.2
+6,2024-09-26,Lampe,Éclairage,9,150,Katherine Mata,Lake Christopher,Mali,0.2,Espèces,1080
+7,2024-11-06,Lampe,Décoration,5,423,Cynthia Baker,Lake April,Croatia,0,Espèces,2115
+8,2024-04-25,Bibliothèque,Mobilier,6,171,Patrick Holmes,Port Kevin,Montenegro,0.1,Espèces,923.4
+9,2024-08-16,Table,Décoration,4,73,Nathan Harris,New Debra,Western Sahara,0.05,Virement,277.4
+10,2024-01-13,Armoire,Mobilier,7,139,Karen Hernandez,Port Michaelfort,Mexico,0,CB,973
+11,2024-12-11,Bibliothèque,Éclairage,9,180,Lynn Parks,New Peter,Bouvet Island (Bouvetoya),0.05,Virement,1539
+12,2024-02-10,Armoire,Rangement,7,427,Elizabeth Duran,New David,Chile,0.05,Virement,2839.55
+13,2024-06-05,Armoire,Mobilier,1,135,Wendy Hernandez,New Sherri,Mauritius,0.1,Espèces,121.5
+14,2024-02-05,Lampe,Décoration,1,94,Margaret Jackson,New Lindsay,United Kingdom,0.05,Espèces,89.3
+15,2024-12-01,Canapé,Éclairage,9,132,Laura Rodriguez,North Johnnyfort,Saint Martin,0.05,Virement,1128.6
+16,2024-09-26,Armoire,Mobilier,9,475,Tammy Adkins,North Karenberg,Micronesia,0.1,CB,3847.5
+17,2024-04-26,Bureau,Décoration,4,439,Natalie Wilson,Isaiahport,Hungary,0.05,Chèque,1668.2
+18,2024-04-09,Lampe,Décoration,9,441,Tina Strickland,Michaelbury,Bulgaria,0.05,Virement,3770.55
+19,2024-03-14,Table,Décoration,3,123,Susan Melton,New Heather,Nepal,0.05,CB,350.55
+20,2024-07-18,Canapé,Mobilier,7,359,Robert Murray,North Sarafort,Bosnia and Herzegovina,0,Espèces,2513
+21,2024-05-16,Bureau,Mobilier,6,273,Andrew Lewis,West Megan,Nigeria,0,Espèces,1638
+22,2024-07-11,Bureau,Mobilier,8,246,Jeffrey Taylor,Melindabury,Australia,0,CB,1968
+23,2024-04-30,Table,Rangement,9,131,Adrienne Gilbert,Morenostad,Ghana,0.1,Chèque,1061.1
+24,2024-10-16,Canapé,Mobilier,5,492,James Doyle,North Jamesmouth,Uzbekistan,0.2,Espèces,1968
+25,2024-04-17,Lampe,Mobilier,1,118,Shelley Huff,South Elizabeth,British Indian Ocean Territory (Chagos Archipelago),0.05,Espèces,112.1
+26,2024-02-01,Chaise,Mobilier,3,172,Sally Hoffman,East Nicholas,Kazakhstan,0.05,Espèces,490.2
+27,2024-12-19,Canapé,Rangement,8,368,Kristine Moreno,Mcdonaldmouth,Sweden,0.1,CB,2649.6
+28,2024-01-18,Table,Mobilier,6,421,Mark Ruiz,New Kara,Christmas Island,0.05,Virement,2399.7
+29,2024-11-13,Bureau,Décoration,8,403,Lance Johnson,South Ana,Cocos (Keeling) Islands,0,Espèces,3224
+30,2024-07-22,Lampe,Mobilier,9,385,William Scott,Williammouth,United States Virgin Islands,0.2,Virement,2772
+31,2024-07-20,Canapé,Décoration,4,357,Gregory Pugh,North Linda,French Southern Territories,0.15,Chèque,1213.8
+32,2024-08-28,Chaise,Décoration,1,213,Thomas Evans,Jamieborough,Lithuania,0.05,Espèces,202.35
+33,2024-10-25,Chaise,Décoration,1,329,Zachary Clark,Madisonview,Zambia,0,Espèces,329
+34,2024-07-05,Armoire,Rangement,4,182,Joseph Ochoa,West Jamesberg,American Samoa,0.15,Chèque,618.8
+35,2024-10-23,Armoire,Rangement,7,227,Joseph Knight,Longberg,Georgia,0.2,Espèces,1271.2
+36,2024-02-10,Bibliothèque,Rangement,2,464,April Gray,Rodriguezfurt,Brunei Darussalam,0.15,Virement,788.8
+37,2024-02-06,Table,Mobilier,3,188,Robert Perez,South Seanshire,South Georgia and the South Sandwich Islands,0,CB,564
+38,2024-09-11,Canapé,Décoration,1,180,Christopher Vasquez,East Kevin,Falkland Islands (Malvinas),0.15,Virement,153
+39,2024-11-14,Canapé,Rangement,5,87,Edward Espinoza,Steventon,Antarctica (the territory South of 60 deg S),0.1,CB,391.5
+40,2024-01-13,Bibliothèque,Rangement,1,308,Erica Gordon,Lake Kevinmouth,Malaysia,0.15,CB,261.8
+41,2024-10-25,Bureau,Mobilier,8,417,Christopher Moyer,Wilsonton,Brunei Darussalam,0.05,Virement,3169.2
+42,2024-11-06,Bureau,Rangement,1,296,Sandra Wagner,Lake David,Togo,0.05,Virement,281.2
+43,2024-07-13,Bibliothèque,Mobilier,1,323,Jessica Tyler,Port Saraville,Turkmenistan,0.1,Virement,290.7
+44,2024-03-12,Bureau,Éclairage,2,423,Hannah Bailey,West Loriborough,Papua New Guinea,0,Virement,846
+45,2024-03-25,Armoire,Rangement,2,403,Nicole Shelton,Andreaton,Malta,0.05,Chèque,765.7
+46,2024-11-14,Canapé,Éclairage,6,411,Jennifer Smith,Port Robertport,Tunisia,0.2,Espèces,1972.8
+47,2024-04-04,Bibliothèque,Mobilier,7,154,Mark Garza,West Lindsayburgh,Honduras,0.05,CB,1024.1
+48,2024-11-20,Canapé,Décoration,5,214,James Zhang,New Jeffrey,Armenia,0.05,Virement,1016.5
+49,2024-06-16,Chaise,Rangement,1,420,James Baker,East Cynthiaside,Malta,0,Virement,420
+50,2024-07-17,Armoire,Mobilier,1,147,Mark Sanders,Carolshire,Gabon,0.15,Virement,124.95
+51,2024-01-13,Lampe,Décoration,3,52,Cindy Shaffer,Lake Joshuaborough,French Southern Territories,0.05,Chèque,148.2
+52,2024-06-16,Armoire,Décoration,2,195,James Lee,Richardsonview,Guinea-Bissau,0.1,Virement,351
+53,2024-02-24,Bibliothèque,Éclairage,5,479,Alexander Weaver,Robertshaven,Turks and Caicos Islands,0.15,Virement,2035.75
+54,2024-03-22,Lampe,Mobilier,6,462,Amy Frank,East Jesse,Hong Kong,0.2,Virement,2217.6
+55,2024-11-26,Chaise,Décoration,7,390,Jessica Morales,Millermouth,Sri Lanka,0,Espèces,2730
+56,2024-12-14,Bibliothèque,Rangement,4,489,Amy Garcia,Bradfordville,Congo,0.2,Chèque,1564.8
+57,2024-04-17,Table,Rangement,7,394,Aaron Davis,Port Andres,Saint Vincent and the Grenadines,0.15,Virement,2344.3
+58,2024-04-29,Canapé,Éclairage,8,41,Christopher Price,Port Joseph,Reunion,0.15,CB,278.8
+59,2024-05-25,Chaise,Décoration,1,257,Victoria Maxwell,Port Crystalbury,India,0.15,CB,218.45
+60,2024-01-26,Canapé,Mobilier,6,177,Amanda Black,Lake Elizabeth,Turks and Caicos Islands,0.2,CB,849.6
+61,2024-02-01,Bureau,Rangement,8,57,Rachel Williams,Samanthastad,Costa Rica,0.15,Chèque,387.6
+62,2024-06-17,Table,Décoration,5,249,Diane Dennis,Coxstad,Seychelles,0.2,Chèque,996
+63,2024-08-11,Table,Décoration,4,384,Lisa Davis,Johnsonmouth,India,0.15,CB,1305.6
+64,2024-02-11,Chaise,Éclairage,2,70,Krista Martin,West Erika,Somalia,0.1,Virement,126
+65,2024-10-28,Table,Rangement,6,457,John Phillips,South Robert,Bouvet Island (Bouvetoya),0.15,Chèque,2330.7
+66,2024-09-18,Lampe,Rangement,6,283,Christopher Ward,Lake Paul,Kazakhstan,0.2,CB,1358.4
+67,2024-10-23,Table,Mobilier,1,302,Mary Daniels,Katieborough,Bahamas,0.05,CB,286.9
+68,2024-06-08,Canapé,Rangement,9,46,Bryan Hamilton,Christopherville,Guinea-Bissau,0.15,Virement,351.9
+69,2024-12-08,Canapé,Mobilier,6,245,Joseph Stewart,Hermanton,Sri Lanka,0.05,Espèces,1396.5
+70,2024-10-07,Bibliothèque,Rangement,3,296,April Anderson,North Cheryl,Switzerland,0.1,Chèque,799.2
+71,2024-04-19,Canapé,Éclairage,4,305,Robert Hobbs,Kimshire,Eritrea,0,Virement,1220
+72,2024-01-05,Bibliothèque,Rangement,4,116,Robert Peck,Lake Darlene,Dominica,0.1,CB,417.6
+73,2024-05-24,Canapé,Mobilier,3,303,Ronald Mccarthy,Carolport,Jersey,0.15,CB,772.65
+74,2024-08-09,Lampe,Mobilier,3,386,John Benson,South Kevinside,Somalia,0.05,Virement,1100.1
+75,2024-04-19,Bibliothèque,Éclairage,3,467,Brian Gray,East Isaiah,Eritrea,0.05,Chèque,1330.95
+76,2024-08-22,Armoire,Rangement,4,472,Christina Ford,Bakertown,United States Virgin Islands,0.2,Espèces,1510.4
+77,2024-08-14,Bureau,Rangement,7,336,Nicholas Woods,Sotochester,Albania,0.05,Espèces,2234.4
+78,2024-02-09,Chaise,Éclairage,4,323,Tyler Hawkins,Warnerhaven,Botswana,0.2,CB,1033.6
+79,2024-09-22,Canapé,Rangement,9,166,Monica Perkins,New Kyle,Russian Federation,0,Chèque,1494
+80,2024-06-06,Table,Rangement,1,23,Brandon Huffman,North Barry,Czech Republic,0.15,Espèces,19.55
+81,2024-07-29,Canapé,Mobilier,8,54,Chris Montes,South Tammybury,Turkmenistan,0.2,Chèque,345.6
+82,2024-12-28,Table,Rangement,7,211,Michael Cardenas,East Mark,Turkmenistan,0,Chèque,1477
+83,2024-11-15,Bureau,Rangement,2,68,Matthew Griffin,Jenniferborough,United Kingdom,0.05,CB,129.2
+84,2024-05-02,Bureau,Éclairage,8,36,Jennifer Vega,Ramirezhaven,Poland,0.05,Espèces,273.6
+85,2024-05-02,Bureau,Éclairage,1,191,Michael Brewer,South Ronald,Oman,0,Virement,191
+86,2024-01-24,Table,Décoration,9,239,Jonathan Colon,Jessicaborough,Greenland,0.05,CB,2043.45
+87,2024-03-10,Canapé,Mobilier,9,177,Richard Sellers,West Bethany,Sudan,0,Espèces,1593
+88,2024-06-21,Bureau,Rangement,2,496,Sean Villarreal,Christophermouth,Equatorial Guinea,0.2,Espèces,793.6
+89,2024-03-28,Lampe,Rangement,7,65,Ralph Cross,Kimborough,Togo,0.2,Espèces,364
+90,2024-08-15,Bibliothèque,Décoration,3,392,Victor Larson,South Benjaminview,French Southern Territories,0,Espèces,1176
+91,2024-04-24,Table,Rangement,7,25,Diana Miles,Davidshire,Belarus,0.2,Espèces,140
+92,2024-03-10,Table,Mobilier,9,118,Brenda Adams,Nicholsonland,New Caledonia,0.2,Chèque,849.6
+93,2024-11-06,Canapé,Décoration,4,399,David Harris,West Dannymouth,Macao,0.2,CB,1276.8
+94,2024-04-07,Table,Mobilier,1,252,Anthony Page,Curtisbury,Belgium,0.1,Chèque,226.8
+95,2024-06-19,Table,Décoration,2,56,Cynthia Morton,Port Christopherborough,Turks and Caicos Islands,0.15,Virement,95.2
+96,2024-12-02,Bureau,Décoration,1,299,Mark Wright,New Joseph,Mozambique,0.05,Espèces,284.05
+97,2024-12-28,Canapé,Éclairage,5,368,William Logan,North Madisontown,Japan,0.1,CB,1656
+98,2024-04-05,Bureau,Mobilier,5,321,Chad Patel,Jenkinsberg,Barbados,0.2,Espèces,1284
+99,2024-08-18,Bibliothèque,Rangement,7,200,Brandon Mahoney,Mcdanieltown,Malawi,0,CB,1400
+100,2024-02-25,Bibliothèque,Rangement,9,114,Benjamin Cochran,East Ianstad,Sudan,0.2,Chèque,820.8
+101,2024-02-25,A,Rangement,9,114,Benjamin Cochran,East Ianstad,Sudan,0.2,Chèque,820.8
